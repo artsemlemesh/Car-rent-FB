@@ -56,7 +56,7 @@ This will launch the application on your local machine. The frontend will be acc
 - **Backend:**
   - Django
   - Django REST Framework
-  - PostgreSQL (as the database)
+  - SQLite3 (as the database, for the simplicity and demonstration)
 
 ## Contact
 
