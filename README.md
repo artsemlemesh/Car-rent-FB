@@ -26,12 +26,12 @@ Car Rent is a web application designed for renting cars. Users can select from a
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/car-rent.git
+   git clone https://github.com/artsemlemesh/Car-rent-FB.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd car-rent
+   cd Car-rent-FB
    ```
 
 3. Run the Docker containers:
